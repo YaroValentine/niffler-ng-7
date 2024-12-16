@@ -1,4 +1,4 @@
-package guru.qa.test;
+package guru.qa.niffler;
 
 import com.github.javafaker.Faker;
 
